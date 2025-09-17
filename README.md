@@ -32,6 +32,6 @@ The hosting is kinda simular to proxmox if you know it, so we will need a min of
 
 I am using a custom treats IoC DI system(one of my other repos), and a treats based MessageBus. So I can hook into the messages to set the cube points, or hook the cube points to networking on creation with Treats design patters(like share, or the other ones in my repos I have shared).
 
-No license given, Contact me AlexanderXN78@Gmail.com if you are interested for a usecase.
+Like video encoding(or incremental file backup), we will take snapshots of teh cube also for networking, that then we can save changes as they come in, and after x number of changes take a snapshot, so when new players want to connect we can send the last snapshot and all the changes since. The number of change would be based on sending rate.
 
-Like video encoding, we will take snapshots of teh cube also for networking, that then we can save changes as they come in, and after x number of changes take a snapshot, so when new players want to connect we can send the last snapshot and all the changes since. The number of change would be based on sending rate.
+No license given, Contact me AlexanderXN78@Gmail.com if you are interested for a usecase.
