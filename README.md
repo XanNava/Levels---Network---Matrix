@@ -28,3 +28,4 @@ or if it is flagged as not changing alot it can be in the slower cubes(single ch
 
 The hosting is kinda simular to proxmox if you know it, so we will need a min of 3 players to have data integrity from votes.
 
+I am using a custom treats IoC DI system(one of my other repos), and a treats based MessageBus. So I can hook into the messages to set the cube points, or hook the cube points to networking on creation with Treats design patters(like share, or the other ones in my repos I have shared).
