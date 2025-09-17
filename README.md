@@ -26,6 +26,8 @@ We can then also project this cube as we like, so for example in Unity we can ke
 This cube can also be spread across memory chips easily, and active data(aka it gets changed alot) can be moved to cubes that are spread over more ram chips(for higher performance cubes),
 or if it is flagged as not changing alot it can be in the slower cubes(single chip cubes).
 
+Authoratiative hosting patterns for data correction and what not will come later. Like wise predictive algorithms for values so we can interpret changes and correct for changes as we get them).
+
 The hosting is kinda simular to proxmox if you know it, so we will need a min of 3 players to have data integrity from votes.
 
 I am using a custom treats IoC DI system(one of my other repos), and a treats based MessageBus. So I can hook into the messages to set the cube points, or hook the cube points to networking on creation with Treats design patters(like share, or the other ones in my repos I have shared).
