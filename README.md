@@ -35,3 +35,5 @@ I am using a custom treats IoC DI system(one of my other repos), and a treats ba
 Like video encoding(or incremental file backup), we will take snapshots of teh cube also for networking, that then we can save changes as they come in, and after x number of changes take a snapshot, so when new players want to connect we can send the last snapshot and all the changes since. The number of change would be based on sending rate.
 
 No license given, Contact me AlexanderXN78@Gmail.com if you are interested for a usecase.
+
+Also note alot of erlang/actor design patterns for data interaction.
