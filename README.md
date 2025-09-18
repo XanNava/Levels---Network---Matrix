@@ -38,6 +38,8 @@ Like video encoding(or incremental file backup), we will take snapshots of teh c
 
 Also note alot of erlang/actor design patterns for data interaction.
 
+Concept needing to be worked on: A skip so if the stream gets to far off, we can skip to packets with recent timestamped records, and slowly push the old packets so we can catch up.
+
 <img width="2287" height="869" alt="image" src="https://github.com/user-attachments/assets/fcdfcf95-9dcd-410c-978c-77c52c694305" />
 <img width="924" height="1667" alt="image" src="https://github.com/user-attachments/assets/f09a5425-9096-4b00-b47e-3d206fd7d13e" />
 <img width="1853" height="866" alt="image" src="https://github.com/user-attachments/assets/8300d0de-db63-4b4d-8abb-8fbdb01d5504" />
