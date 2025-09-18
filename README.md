@@ -1,4 +1,6 @@
-# Levels---Networked---3D-Cube
+# Levels---Network---Matrix
+<img width="1290" height="1610" alt="image" src="https://github.com/user-attachments/assets/605e53a0-d535-4744-a73d-89522aa24f2f" />
+
 This project is about a Traits based networking of a 3D cube. I wanted this system for an inventory System I am making, but has more uses.
 
 Main concept is every point in the cube is a black box. We don't care what is in the black box, just how many things chnaged. We have counters at the ends of the rows collumns levels of the cube.
@@ -36,4 +38,10 @@ Like video encoding(or incremental file backup), we will take snapshots of teh c
 
 Also note alot of erlang/actor design patterns for data interaction.
 
-<img width="3000" height="4000" alt="image" src="https://github.com/user-attachments/assets/6a6e29e7-938e-4036-a495-c49f42dac819" />
+<img width="2287" height="869" alt="image" src="https://github.com/user-attachments/assets/fcdfcf95-9dcd-410c-978c-77c52c694305" />
+<img width="924" height="1667" alt="image" src="https://github.com/user-attachments/assets/f09a5425-9096-4b00-b47e-3d206fd7d13e" />
+<img width="1853" height="866" alt="image" src="https://github.com/user-attachments/assets/8300d0de-db63-4b4d-8abb-8fbdb01d5504" />
+<img width="1627" height="1612" alt="image" src="https://github.com/user-attachments/assets/c3248f49-2144-4d39-918f-129c534ebdc0" />
+<img width="1260" height="1630" alt="image" src="https://github.com/user-attachments/assets/57cafa96-9faf-4e73-b535-0c040328be06" />
+
+
