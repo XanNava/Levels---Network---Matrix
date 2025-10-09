@@ -1,7 +1,7 @@
 # Levels---Network---Matrix
 <img width="1290" height="1610" alt="image" src="https://github.com/user-attachments/assets/605e53a0-d535-4744-a73d-89522aa24f2f" />
 
-This project is about a Traits based networking of a 3D cube. I wanted this system for an inventory System I am making, but has more uses.
+This project is about a Traits based networking of a 3D matrix. I wanted this system for an inventory System I am making, but has more uses.
 
 Main concept is every point in the cube is a black box. We don't care what is in the black box, just how many things chnaged. We have counters at the ends of the rows collumns levels of the cube.
 ChangeCount
