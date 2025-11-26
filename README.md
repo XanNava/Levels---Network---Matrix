@@ -48,4 +48,4 @@ Concept needing to be worked on: A skip so if the stream gets to far off, we can
 
 
 Networking out-line.
-https://chivalrous-stock-857.notion.site/Distributed-Redundant-Interconnected-Server-DRIS-Matrix-Mesh-Rust-On-IBM-28fb93133d2180c5842cc14037c6e6e9?pvs=73
+[Distributed Redundant Interconnected Server - DRIS - Matrix Mesh (Rust On IBM) - By Alexander Nava](https://chivalrous-stock-857.notion.site/Distributed-Redundant-Interconnected-Server-DRIS-Matrix-Mesh-Rust-On-IBM-28fb93133d2180c5842cc14037c6e6e9?pvs=73)
