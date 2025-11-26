@@ -47,3 +47,5 @@ Concept needing to be worked on: A skip so if the stream gets to far off, we can
 <img width="1260" height="1630" alt="image" src="https://github.com/user-attachments/assets/57cafa96-9faf-4e73-b535-0c040328be06" />
 
 
+Networking out-line.
+https://chivalrous-stock-857.notion.site/Distributed-Redundant-Interconnected-Server-DRIS-Matrix-Mesh-Rust-On-IBM-28fb93133d2180c5842cc14037c6e6e9?pvs=73
